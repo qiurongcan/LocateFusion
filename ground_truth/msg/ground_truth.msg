@@ -1,0 +1,17 @@
+float64 timestamp
+float32 p_RS_R_x
+float32 p_RS_R_y
+float32 p_RS_R_z
+float32 q_RS_R_w
+float32 q_RS_R_x
+float32 q_RS_R_y
+float32 q_RS_R_z
+float32 v_RS_R_x
+float32 v_RS_R_y
+float32 v_RS_R_z
+float32 b_w_RS_S_x
+float32 b_w_RS_S_y
+float32 b_w_RS_S_z
+float32 b_a_RS_S_x
+float32 b_a_RS_S_y
+float32 b_a_RS_S_z
